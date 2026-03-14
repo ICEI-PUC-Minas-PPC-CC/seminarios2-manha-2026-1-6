@@ -11,10 +11,7 @@
 | Campo | Informação |
 | ------- | ----------- |
 | **Nome do Grupo** | *(6)* |
-| **Integrantes** | *(Miguel Souto
-                     Otávio Macari
-                     Otavio Crivelari
-                     William Martins)* |
+| **Integrantes** | *(Miguel Souto, Otávio Macari, Otavio Crivelari, William Martins)* |
 | **E-mail de contato** | *(miguelmsouto06@gmail.com)* |
 | **Comunidade parceira** | *(preencher)* |
 
