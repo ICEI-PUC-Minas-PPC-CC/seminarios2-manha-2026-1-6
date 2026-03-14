@@ -16,7 +16,7 @@
 | Campo | Informação |
 | ------- | ----------- |
 | Nome da equipe | 6 |
-| Integrantes(Miguel Souto, Otávio Crivelari, Otávio Macari, William Martins ) | |
+| Integrantes | Miguel Souto, Otávio Crivelari, Otávio Macari, William Martins  |
 | E-mail de contato | miguelmsouto06@gmail.com |
 | Telefone de contato | |
 
