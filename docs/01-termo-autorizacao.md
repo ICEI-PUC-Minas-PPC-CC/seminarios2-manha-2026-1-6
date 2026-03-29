@@ -36,10 +36,10 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Tema da oficina | |
-| Público-alvo | |
+| Tema da oficina | Atenção no Volante: Conscientização sobre o uso do celular no trânsito |
+| Público-alvo | Majoritariamente jovens e adultos |
 | Nº estimado de participantes | |
-| Faixa etária do público | |
+| Faixa etária do público | 18-50 anos |
 | Recursos necessários | |
 
 ### Breve descrição da atividade proposta
