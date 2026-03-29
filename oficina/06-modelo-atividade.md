@@ -17,27 +17,45 @@ Ao final da atividade, o participante deve ser capaz de compreender os riscos do
 
 > **Lembrete:** As atividades devem ter baixa complexidade, considerando as dificuldades de aprendizado do público-alvo.
 
-- [ ] Baixa complexidade (adequado)
+- [ X ] Baixa complexidade (adequado)
 - [ ] Complexidade verificada com o professor/comunidade
 
 ## Descrição Passo a Passo
 
-1. *(Passo 1 — O que o facilitador faz/diz)*
-2. *(Passo 2 — O que os participantes fazem)*
-3. *(Passo 3 — ...)*
+1. O facilitador inicia com uma conversa breve sobre o uso do celular no trânsito, perguntando se os participantes já presenciaram ou praticaram esse comportamento.  
+2. Apresenta exemplos simples de campanhas de conscientização (imagens ou posts).  
+3. Explica a proposta: cada participante ou grupo criará um perfil ou post de Instagram com foco em conscientização no trânsito.  
+4. Os participantes escolhem um tema específico (ex.: "não use o celular ao dirigir", "atenção salva vidas").  
+5. Utilizando o Canva ou o próprio Instagram, os participantes criam uma postagem com imagem e texto curto.  
+6. Os participantes escrevem uma legenda educativa para acompanhar o post.  
+7. Ao final, cada grupo apresenta sua postagem e explica a mensagem transmitida.  
+8. O facilitador reforça os principais aprendizados e a importância da responsabilidade no trânsito.
 
 ## Materiais Necessários
 
-- *(Listar todos os materiais, links, arquivos, etc.)*
+- Celulares com acesso à internet  
+- Instagram  
+- Canva (opcional)  
+- Exemplos de campanhas educativas  
+- Conexão com internet
 
 ## Exemplo Concreto
 
-(Forneça um exemplo real da atividade. Ex.: "Se eu tenho R$ 10,00 e quero comprar um produto de R$ 30,00, quanto falta?" — usando a calculadora do sistema operacional.)
+Post com a imagem de um volante e um celular com notificação, contendo a frase:
+
+"Uma mensagem pode esperar. Sua vida não."
 
 ## Critérios de Sucesso
 
-(Como saber se a atividade funcionou? Ex.: participantes conseguiram completar o exercício, acertaram X% das perguntas no Kahoot!, etc.)
+- Participantes criam pelo menos uma postagem com mensagem clara de conscientização  
+- As postagens demonstram entendimento do tema  
+- Participantes conseguem explicar a importância de evitar o uso do celular ao dirigir  
+- Participação ativa durante a atividade
 
 ## Adaptações de Acessibilidade
 
-(Descreva adaptações necessárias: apoio visual, uso de Libras, simplificação de linguagem, etc.)
+- Uso de linguagem simples e objetiva  
+- Apoio visual com exemplos prontos  
+- Possibilidade de trabalho em grupo para apoio mútuo  
+- Leitura em voz alta das instruções  
+- Uso de aplicativos intuitivos (como Canva)
