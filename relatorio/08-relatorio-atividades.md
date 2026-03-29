@@ -20,7 +20,7 @@
 
 | Data | Etapa | Descrição do que foi feito |
 | ------ | ------- | --------------------------- |
-| | Formação do grupo |Organização dos integrantes, análise e compreendimento do tema e divisão inicial de responsabilidades |
+| | Formação do grupo |Organização dos integrantes, análise e compreendimento do tema |
 | | Contato inicial com a comunidade | Pendente |
 | | Levantamento de demandas | Pendente |
 | | Definição do tema | Escolha do tema "uso do celular ao dirigir" pela relevância e impacto social |
