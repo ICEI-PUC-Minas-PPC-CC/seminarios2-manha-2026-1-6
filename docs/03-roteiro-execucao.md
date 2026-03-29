@@ -10,11 +10,11 @@
 
 | Integrante | Papel/Responsabilidade no dia |
 | ----------- | ------------------------------ |
-| | Apresentador inicial |
-| | Apoio técnico (projetor, computadores) |
-| | Apoio aos participantes durante atividades |
-| | Registro fotográfico |
-| | *(outros conforme necessário)* |
+| A ser decidido | Apresentador inicial |
+| A ser decidido | Apoio técnico (projetor, computadores) |
+| A ser decidido | Apoio aos participantes durante atividades |
+| A ser decidido | Registro fotográfico |
+| A ser decidido | *(outros conforme necessário)* |
 
 ---
 
@@ -24,22 +24,22 @@
 
 | Problema potencial | Solução alternativa |
 | ------------------- | ------------------- |
-| Internet indisponível | |
-| Projetor não funciona | |
-| Menos participantes que o esperado | |
-| Mais participantes que o esperado | |
-| Participante com dificuldade na atividade | |
+| Internet indisponível | Utilizar de exemplos salvos localmente no celular e simular postagens|
+| Projetor não funciona | Explicação verbal e visual pelo celular |
+| Menos participantes que o esperado | Se adaptar a situação e realizar mais atividades individualmente |
+| Mais participantes que o esperado | Dividir em grupos |
+| Participante com dificuldade na atividade | Oferecer auxíilio |
 
 ---
 
 ## Checklist Pré-Oficina (dia anterior)
 
-- [ ] Materiais digitais testados e funcionando
+- [ X ] Materiais digitais testados e funcionando
 - [ ] Links do Mentimeter/Kahoot! criados e testados
 - [ ] Apresentação/slides prontos
 - [ ] Confirmação do agendamento com o professor ou comunidade
 - [ ] Confirmação da disponibilidade do intérprete de Libras (se aplicável)
-- [ ] Equipamentos verificados (notebook, cabos, adaptadores)
+- [ X ] Equipamentos verificados (notebook, cabos, adaptadores)
 
 ## Checklist Pós-Oficina (no dia)
 
