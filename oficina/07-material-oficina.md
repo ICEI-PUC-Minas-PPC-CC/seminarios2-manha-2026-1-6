@@ -7,6 +7,7 @@
 ## Materiais Digitais
 
 | # | Material | Tipo | Link / Localização |
+
 | 1 |Post de conscientização sobre uso do celular no trânsito | Canva | https://www.canva.com/ |
 | 2	|Perfil/postagem educativa|	Instagram	| https://www.instagram.com/|
 | 3	|Exemplos de campanhas educativas utilizadas na introdução|Imagens| Pasta de imagens para repertório ainda será criada.
