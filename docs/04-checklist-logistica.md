@@ -1,6 +1,6 @@
 # 04 — Checklist de Preparação e Logística
 
-> **Oficina:** *(tema)*  
+> **Oficina:** *Atenção no Volante: Conscientização sobre o uso do celular no trânsito*  
 > **Data prevista:** *(preencher)*  
 > **Local:** *(preencher)*
 
@@ -8,20 +8,20 @@
 
 ## 📋 Etapa 1 — Planejamento Inicial
 
-- [ ] Grupo formado e registrado no Canvas
-- [ ] Tema definido e aprovado pelo professor
-- [ ] Comunidade/colégio identificado
-- [ ] Primeiro contato realizado com a comunidade
-- [ ] Termo de autorização preenchido e assinado (`01-termo-autorizacao.md` e documento disponibilizado no Canvas)
-- [ ] Termo enviado ao professor para validação
-- [ ] **Termo aprovado pelo professor**
+- [X] Grupo formado e registrado no Canvas
+- [X] Tema definido e aprovado pelo professor
+- [X] Comunidade/colégio identificado
+- [X] Primeiro contato realizado com a comunidade
+- [X] Termo de autorização preenchido e assinado (`01-termo-autorizacao.md` e documento disponibilizado no Canvas)
+- [X] Termo enviado ao professor para validação
+- [X] **Termo aprovado pelo professor**
 
 ## 📋 Etapa 2 — Preparação dos Materiais
 
-- [ ] Plano de oficina elaborado (`02-plano-oficina.md`)
-- [ ] Atividades criadas e documentadas (`06-modelo-atividade.md`, `07-material-oficina.md`)
-- [ ] Ferramentas configuradas (Mentimeter, Kahoot!, Scratch, etc.)
-- [ ] Materiais testados com colegas do grupo
+- [X] Plano de oficina elaborado (`02-plano-oficina.md`)
+- [X] Atividades criadas e documentadas (`06-modelo-atividade.md`, `07-material-oficina.md`)
+- [X] Ferramentas configuradas (Mentimeter, Kahoot!, Scratch, etc.)
+- [X] Materiais testados com colegas do grupo
 - [ ] Ajustes feitos após testes internos
 - [ ] Nível de complexidade validado (adequado ao público)
 
