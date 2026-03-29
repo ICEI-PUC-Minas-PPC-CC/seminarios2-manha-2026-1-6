@@ -4,14 +4,14 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome da atividade | |
-| Tipo | *(Língua Portuguesa / Matemática / Informática Básica / Simulação de compra e venda / Outro)* |
-| Duração estimada | |
-| Ferramenta principal | *(Mentimeter / Kahoot! / Scratch / Calculadora / Office / Outro)* |
+| Nome da atividade |Atenção no Volante: Campanha no Instagram |
+| Tipo |Informática Básica / Educação para o trânsito |
+| Duração estimada |40 a 60 minutos |
+| Ferramenta principal | Instagram / Canva / Celular |
 
 ## Objetivo
 
-(O que o participante deve ser capaz de fazer ao final desta atividade?)
+Ao final da atividade, o participante deve ser capaz de compreender os riscos do uso do celular enquanto dirige e comunicar essa conscientização por meio da criação de postagens educativas no Instagram.
 
 ## Nível de Complexidade
 
