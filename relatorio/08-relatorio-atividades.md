@@ -8,11 +8,11 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome do Grupo | |
-| Integrantes participantes | |
+| Nome do Grupo | 6 (será alterado em breve) |
+| Integrantes participantes | Miguel Souto, Otávio Macari, Otavio Crivelari, Lohan, Davi Zanatta |
 | Disciplina | Seminários II |
-| Comunidade atendida | |
-| Tema da oficina | |
+| Comunidade atendida | Local |
+| Tema da oficina |	Atenção no Volante: Conscientização sobre o uso do celular no trânsito |
 
 ## Cronograma de Desenvolvimento
 
@@ -20,15 +20,15 @@
 
 | Data | Etapa | Descrição do que foi feito |
 | ------ | ------- | --------------------------- |
-| | Formação do grupo | |
-| | Contato inicial com a comunidade | |
-| | Levantamento de demandas | |
-| | Definição do tema | |
-| | Elaboração dos materiais | |
-| | Teste dos materiais | |
-| | Ajustes finais | |
-| | **Execução da oficina** | |
-| | Preenchimento dos relatórios | |
+| | Formação do grupo |Organização dos integrantes, análise e compreendimento do tema e divisão inicial de responsabilidades |
+| | Contato inicial com a comunidade | Pendente |
+| | Levantamento de demandas | Pendente |
+| | Definição do tema | Escolha do tema "uso do celular ao dirigir" pela relevância e impacto social |
+| | Elaboração dos materiais | Criação de exemplos de posts, estrutura da atividade e apoio visual no Canva |
+| | Teste dos materiais | Pendente |
+| | Ajustes finais | Pendente |
+| | **Execução da oficina** |Pendente |
+| | Preenchimento dos relatórios | Em Processo |
 
 ## Descrição das Atividades Realizadas
 
@@ -36,26 +36,31 @@
 
 ### Planejamento
 
-(O que foi feito na fase de planejamento?)
+Na fase de planejamento, o grupo se reuniu para definir o tema da oficina com base em problemas relevantes do cotidiano. Foi escolhido o tema da conscientização no trânsito, com foco no uso do celular ao dirigir, devido ao seu impacto na segurança. Também foram definidos os objetivos da atividade e a metodologia a ser utilizada.
 
 ### Preparação
 
+Falta de informações para descrição completa desse passo(Preencher na etapa 3)
 (Como os materiais foram desenvolvidos? Quais ferramentas foram utilizadas?)
 
 ### Execução
 
+(Pendente)
 (Como foi a oficina? Quantos participantes? O que foi realizado?)
 
 ### Resultados
 
+(Pendente)
 (Quais foram os resultados observados? Feedback dos participantes?)
 
 ## Evidências para Anexar no APC
 
+(Pendente)
 ### Fotos da oficina
 
 > Anexar fotos da execução presencial. Certifique-se de que as fotos mostram a interação com a comunidade.
 
+(Pendente)
 - [ ] Fotos salvas em `evidencias/fotos/`
 
 ### Prints de tela
