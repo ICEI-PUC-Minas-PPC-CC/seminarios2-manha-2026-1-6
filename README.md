@@ -1,31 +1,35 @@
 # 📚 Seminários II — Projeto Extensionista
 
 > **Disciplina:** Seminários II — PUC Minas  
-> **Professor Responsável:** Harison Herman Silva
+> **Professor Responsável:** Harison Herman Silva  
 > **Formato:** Sala de aula invertida (protagonismo dos alunos)
 
 ---
 
 ## 👥 Identificação do Grupo
 
-| Campo | Informação |
-| ------- | ----------- |
-| **Nome do Grupo** | *(6)* |
-| **Integrantes** | *(Miguel Souto, Otávio Macari, Otavio Crivelari, William Martins, Lohan, Davi Zanatta)* |
-| **E-mail de contato** | *(miguelmsouto06@gmail.com)* |
-| **Comunidade parceira** | *(preencher)* |
+| Campo                   | Informação                                                                              |
+| ----------------------- | --------------------------------------------------------------------------------------- |
+| **Nome do Grupo**       | Grupo 6                                                                                 |
+| **Integrantes**         | Miguel Souto, Otávio Macari, Otavio Crivelari, William Martins, Lohan Walton, Davi Zanatta     |
+| **E-mail de contato**   | miguelmsouto06@gmail.com                                                                |
+| **Comunidade parceira** |                   |
 
 ---
 
 ## 🎯 Tema da Oficina
 
-(Descreva brevemente o tema escolhido para a oficina e o público-alvo.)
+**Tecnologia Acessível para Todos: recursos digitais para pessoas com deficiência visual e auditiva**
+
+A oficina tem como objetivo apresentar, de forma prática e inclusiva, ferramentas de tecnologia assistiva disponíveis em smartphones e computadores — como leitores de tela, legendas automáticas e aplicativos de comunicação — para alunos com deficiência visual e/ou auditiva de uma instituição parceira em Poços de Caldas, MG.
+
+**Público-alvo:** Estudantes com deficiência visual e auditiva de escola/instituição parceira local.
 
 ---
 
 ## 📁 Estrutura do Repositório
 
-```cmd
+```
 ├── README.md                          ← Este arquivo
 ├── docs/
 │   ├── 01-termo-autorizacao.md     ← Termo de autorização e agendamento
@@ -33,15 +37,14 @@
 │   ├── 03-roteiro-execucao.md      ← Roteiro para o dia da oficina
 │   ├── 04-checklist-logistica.md   ← Checklist de preparação e logística
 │   └── 05-diario-bordo.md          ← Diário de bordo do grupo
-├── templates/
-│   └── 06-modelo-atividade.md      ← Modelo para criar atividades
 ├── oficina/
+│   ├── 06-modelo-atividade.md      ← Modelo para criar atividades
 │   └── 07-material-oficina.md      ← Materiais produzidos para a oficina
 ├── evidencias/
-│   ├── fotos/                         ← Fotos da execução (para relatório APC)
+│   ├── fotos/                         ← Fotos da execução
 │   └── prints/                        ← Prints de tela dos materiais
-└── relatorios/
-    └── 08-relatorio-atividades.md  ← Base para o relatório APC (grupo)
+└── relatorio/
+    └── 08-relatorio-atividades.md  ← Base para o relatório APC
 ```
 
 ---
@@ -58,7 +61,7 @@
 
 ## ⚠️ Lembretes Importantes
 
-- A oficina **deve ser presencial** (no colégio parceiro ou na PUC Minas).
+- A oficina **deve ser presencial** (na instituição parceira ou na PUC Minas).
 - **Tirem muitas fotos** no dia da oficina — elas serão anexadas ao relatório APC.
 - Mantenham o **diário de bordo atualizado** ao longo do semestre.
 - O relatório APC de atividades deve conter um **cronograma detalhado** com descrição do que foi feito em cada etapa.
