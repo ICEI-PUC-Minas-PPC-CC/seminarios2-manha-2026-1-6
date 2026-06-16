@@ -4,58 +4,63 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome da atividade |Atenção no Volante: Campanha no Instagram |
-| Tipo |Informática Básica / Educação para o trânsito |
-| Duração estimada |40 a 60 minutos |
-| Ferramenta principal | Instagram / Canva / Celular |
+| Nome da atividade | Tecnologia no Bolso: explorando recursos de acessibilidade no celular |
+| Tipo | Tecnologia Assistiva / Inclusão Digital |
+| Duração estimada | 40 a 60 minutos |
+| Ferramenta principal | TalkBack (Android), Live Transcribe, Legendas automáticas YouTube |
 
 ## Objetivo
 
-Ao final da atividade, o participante deve ser capaz de compreender os riscos do uso do celular enquanto dirige e comunicar essa conscientização por meio da criação de postagens educativas no Instagram.
+Ao final da atividade, o participante deve ser capaz de ativar e utilizar ao menos uma ferramenta de tecnologia assistiva no smartphone, reconhecendo como ela pode facilitar o acesso à informação e ampliar sua autonomia no cotidiano.
 
 ## Nível de Complexidade
 
-> **Lembrete:** As atividades devem ter baixa complexidade, considerando as dificuldades de aprendizado do público-alvo.
+> **Lembrete:** As atividades devem ter baixa complexidade, considerando as necessidades do público-alvo.
 
-- [ X ] Baixa complexidade (adequado)
+- [X] Baixa complexidade (adequado)
 - [ ] Complexidade verificada com o professor/comunidade
 
 ## Descrição Passo a Passo
 
-1. O facilitador inicia com uma conversa breve sobre o uso do celular no trânsito, perguntando se os participantes já presenciaram ou praticaram esse comportamento.  
-2. Apresenta exemplos simples de campanhas de conscientização (imagens ou posts).  
-3. Explica a proposta: cada participante ou grupo criará um perfil ou post de Instagram com foco em conscientização no trânsito.  
-4. Os participantes escolhem um tema específico (ex.: "não use o celular ao dirigir", "atenção salva vidas").  
-5. Utilizando o Canva ou o próprio Instagram, os participantes criam uma postagem com imagem e texto curto.  
-6. Os participantes escrevem uma legenda educativa para acompanhar o post.  
-7. Ao final, cada grupo apresenta sua postagem e explica a mensagem transmitida.  
-8. O facilitador reforça os principais aprendizados e a importância da responsabilidade no trânsito.
+1. O facilitador inicia com uma breve conversa sobre dificuldades no uso do celular no dia a dia, perguntando se os participantes já conhecem algum recurso de acessibilidade.
+2. Apresenta de forma simples o que é tecnologia assistiva e por que ela existe.
+3. Demonstra ao vivo cada ferramenta no celular, passo a passo, com o projetor/TV (se disponível):
+   - **TalkBack:** ativar, navegar com gestos, ouvir o conteúdo da tela
+   - **Live Transcribe:** abrir o app, falar ao microfone, ler a transcrição
+   - **Legendas automáticas:** abrir um vídeo no YouTube e ativar a legenda
+4. Propõe as "missões práticas" — cada participante (ou dupla) escolhe uma ferramenta para tentar usar sozinho.
+5. Os integrantes do grupo circulam oferecendo suporte individual.
+6. Ao final, cada participante compartilha (verbalmente ou por escrito) o que conseguiu fazer.
+7. O facilitador reforça como essas ferramentas estão disponíveis gratuitamente em qualquer celular Android.
 
 ## Materiais Necessários
 
-- Celulares com acesso à internet  
-- Instagram  
-- Canva (opcional)  
-- Exemplos de campanhas educativas  
-- Conexão com internet
+- Smartphones com Android (do grupo e/ou dos participantes)
+- App Live Transcribe instalado
+- Acesso à internet (para YouTube)
+- Material impresso com instruções em fonte ampliada (para participantes com baixa visão)
+- Lista de presença
 
 ## Exemplo Concreto
 
-Post com a imagem de um volante e um celular com notificação, contendo a frase:
+**Missão para deficiente visual:**
+> "Com o TalkBack ativado e os olhos fechados, abra o aplicativo de Mensagens e leia a última mensagem recebida."
 
-"Uma mensagem pode esperar. Sua vida não."
+**Missão para deficiente auditivo:**
+> "Abra o Live Transcribe e peça para um colega contar o que fez ontem. Leia a transcrição na tela."
 
 ## Critérios de Sucesso
 
-- Participantes criam pelo menos uma postagem com mensagem clara de conscientização  
-- As postagens demonstram entendimento do tema  
-- Participantes conseguem explicar a importância de evitar o uso do celular ao dirigir  
-- Participação ativa durante a atividade
+- Participantes conseguem ativar ao menos uma ferramenta de acessibilidade
+- Participantes demonstram compreensão do funcionamento básico da ferramenta
+- Participantes conseguem relatar como a ferramenta poderia ser útil para eles
+- Participação ativa durante a prática guiada
 
 ## Adaptações de Acessibilidade
 
-- Uso de linguagem simples e objetiva  
-- Apoio visual com exemplos prontos  
-- Possibilidade de trabalho em grupo para apoio mútuo  
-- Leitura em voz alta das instruções  
-- Uso de aplicativos intuitivos (como Canva)
+- Uso de linguagem simples e objetiva em todas as explicações
+- Instruções escritas em fonte ampliada para participantes com baixa visão
+- Comunicação por escrito (papel ou celular) para participantes com deficiência auditiva
+- Possibilidade de trabalho em dupla para apoio mútuo
+- Todas as demonstrações são feitas verbalmente com descrição detalhada de cada passo
+- Nenhuma instalação de software necessária (TalkBack é nativo; Live Transcribe é gratuito)
