@@ -6,7 +6,7 @@
 | ------- | ----------- |
 | Nome da atividade | Tecnologia no Bolso: explorando recursos de acessibilidade no celular |
 | Tipo | Tecnologia Assistiva / Inclusão Digital |
-| Duração estimada | 40 a 60 minutos |
+| Duração estimada | 20 a 30 minutos |
 | Ferramenta principal | TalkBack (Android), Live Transcribe, Legendas automáticas YouTube |
 
 ## Objetivo
