@@ -60,7 +60,7 @@ A atividade atingiu excelentes resultados em termos de engajamento. A comunidade
 ![Legenda da Foto](evidencias/prints/print1.jpg)
 ![Legenda da Foto](evidencias/prints/print2.jpg)
 ![Legenda da Foto](evidencias/prints/print3.jpg)
-![Legenda da Foto](evidencias/prints/print4.jpg)
+![Legenda da Foto](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios2-manha-2026-1-6/blob/main/evidencias/prints/print4.jpg)
 ## Observações
 
 A experiência prática evidenciou que a acessibilidade digital não deve ser tratada como um recurso opcional, mas como um pilar fundamental no desenvolvimento de software. Como aprendizado principal para os integrantes do grupo (do 2º e 6º períodos), ficou claro que o design inclusivo exige testes reais com o público-alvo. Como sugestão para próximas turmas, recomenda-se a criação de pequenos laboratórios de testes ou protótipos de páginas com falhas propositais para que os convidados possam "consertar" na hora, gerando ainda mais interatividade.
