@@ -52,14 +52,16 @@ A atividade atingiu excelentes resultados em termos de engajamento. A comunidade
 
 ### Fotos da oficina
 
-- [x] Fotos da execução presencial no laboratório mostrando os alunos interagindo com os PCs salvas em `evidencias/fotos/`
-- [x] Registro da apresentação em conjunto com a comunidade e a intérprete salvo em `evidencias/fotos/`
+![foto1](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios2-manha-2026-1-6/blob/main/evidencias/fotos/tarso.jpeg)
+![foto2](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios2-manha-2026-1-6/blob/main/evidencias/fotos/Oficina2.jpeg)
+![foto3](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios2-manha-2026-1-6/blob/main/evidencias/fotos/Oficina3.jpeg)
+![foto4](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios2-manha-2026-1-6/blob/main/evidencias/fotos/abertura-oficina.jpeg)
 
 ### Prints de tela
 
-![Legenda da Foto](evidencias/prints/print1.jpg)
-![Legenda da Foto](evidencias/prints/print2.jpg)
-![Legenda da Foto](evidencias/prints/print3.jpg)
+![print1](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios2-manha-2026-1-6/blob/main/evidencias/prints/print1.jpg)
+![print2](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios2-manha-2026-1-6/blob/main/evidencias/prints/print2.jpg)
+![print3](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios2-manha-2026-1-6/blob/main/evidencias/prints/print3.jpg)
 ![print4](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios2-manha-2026-1-6/blob/main/evidencias/prints/print4.jpg)
 
 ## Observações
